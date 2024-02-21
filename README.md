@@ -25,13 +25,6 @@ You can install the package via composer:
 composer require :vendor_slug/:package_slug
 ```
 
-## Usage
-
-```php
-$skeleton = new VendorName\Skeleton();
-echo $skeleton->echoPhrase('Hello, VendorName!');
-```
-
 ## Testing
 
 ```bash
