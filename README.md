@@ -52,7 +52,7 @@ If you discover any security related issues, please email :author_email instead 
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/:vendor_slug/:package_name.svg?style=for-the-badge
+[ico-version]: https://img.shields.io/packagist/v/:vendor_slug/:package_name.svg?logo=packagist&style=for-the-badge
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge
 [ico-gh-actions]: https://img.shields.io/github/actions/workflow/status/:vendor_slug/:package_name/testing.yml?branch=main&label=actions&logo=github&style=for-the-badge
 [ico-codecov]: https://img.shields.io/codecov/c/github/:vendor_slug/:package_name?logo=codecov&style=for-the-badge
